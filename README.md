@@ -42,11 +42,11 @@ Currently pursuing a B.S. in Software Engineering (Expected Fall 2026)
 Kennesaw State University — *Expected Fall 2026*
 
 Relevant coursework:
-- Data Structures
-- Discrete Structures
-- Computer Organization & Architecture
-- Software Architecture & Design
-- Software Systems Requirements
+- *Data Structures*
+- *Discrete Structures*
+- *Computer Organization & Architecture*
+- *Software Architecture & Design*
+- *Software Systems Requirements*
 
 ---
 
@@ -54,9 +54,9 @@ Relevant coursework:
 Georgia Highlands College — *2022-2025*
 
 Relevant coursework:
-- Networking
-- Database Systems
-- Programming & Problem Solving I & II
+- *Networking*
+- *Database Systems*
+- *Programming & Problem Solving I and II*
 
 ## Contact
 📧 **zachnvb@gmail.com**  
