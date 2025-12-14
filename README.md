@@ -6,7 +6,7 @@
 
 ## About
 
-Software engineering student with a strong foundation in computer science fundamentals and software architecture. Experienced in both systems-level programming and application development, with an emphasis on clean design, maintainability, and performance.
+Software engineering student with a strong foundation in computer science fundamentals and software architecture. Experience in both systems-level programming and application development.
 
 Currently pursuing a B.S. in Software Engineering (Expected Fall 2026)
 
