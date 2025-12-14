@@ -48,8 +48,6 @@ Relevant coursework:
 - *Software Architecture & Design*
 - *Software Systems Requirements*
 
----
-
 **A.S. in Computer Science**  
 Georgia Highlands College — *2022-2025*
 
@@ -57,6 +55,8 @@ Relevant coursework:
 - *Networking*
 - *Database Systems*
 - *Programming & Problem Solving I and II*
+
+---
 
 ## Contact
 📧 **zachnvb@gmail.com**  
