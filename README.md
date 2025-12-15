@@ -4,14 +4,6 @@ Software Engineering @ Kennesaw State University
 
 ---
 
-## About
-
-Software engineering student with a strong foundation in computer science fundamentals and software architecture. Experience in both systems-level programming and application development.
-
-Currently pursuing a B.S. in Software Engineering (Expected Fall 2026)
-
----
-
 ## Technical Skills
 
 ### Languages
